@@ -16,8 +16,8 @@ body {
 
 .strip {
     background-color: #faf7f0; /* Central strip background color */
-    width: 20%;/* Adjust the width as needed */
-    max-width: 300; /* Optional max-width */
+    width: 30%;/* Adjust the width as needed */
+    max-width: 800; /* Optional max-width */
     height: 100vh; /* Full height */
     padding: 20px 40px; /* Add more padding to the right (20px top/bottom, 40px left/right) */
 	box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* Optional shadow for visual effect */
