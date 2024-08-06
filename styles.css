@@ -1,0 +1,47 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+    background-color: #333; /* Dark grey background */
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    color: black;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    line-height: 1.5;
+}
+
+.strip {
+    background-color: #faf7f0; /* Central strip background color */
+    width: 20%;/* Adjust the width as needed */
+    max-width: 300; /* Optional max-width */
+    height: 100vh; /* Full height */
+    padding: 20px 40px; /* Add more padding to the right (20px top/bottom, 40px left/right) */
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* Optional shadow for visual effect */
+    text-align: left;
+}
+
+h1 {
+    font-size: 12pt;
+    font-weight: bold;
+    letter-spacing: 2pt;
+    margin: 0;
+    line-height: 1.5;
+}
+
+.p1 {
+    font-size: 8pt
+		;
+    font-weight: normal;
+	letter-spacing: 1pt;
+    margin-top: 20px;
+    line-height: 1;
+}
+
+/* Set default link color to black */
+a {
+    color: black;
+}
